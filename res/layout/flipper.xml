@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ViewFlipper1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/include1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/map" />
+
+    <include
+        android:id="@+id/include2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/ar" />
+
+    <include
+        android:id="@+id/include3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/water" />
+
+    <include
+        android:id="@+id/include4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/flood" />
+
+</ViewFlipper>

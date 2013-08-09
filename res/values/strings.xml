@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, IntegrateTsunamiActivity!</string>
+    <string name="app_name">IntegrateTsunami</string>
+    <string name="new_game">new game</string>
+    <string name="help">help</string>
+    <string name="sync_sensor">センサーと同期</string>
+    <string name="sync_gps">GPSと同期</string>
+    <string name="mode_perspective">一人称視点</string>
+    <string name="mode_overlook">俯瞰視点</string>
+    <string name="rendering_option">描画設定</string>
+    <string name="preference">その他の設定</string>
+    <string name="sync_ground">地形と同期</string>
+    <string name="next_building_material">建物の描画の変更</string>
+    <string name="next_water_material">波の描画の変更</string>
+    <string name="next_ground_material">地形の描画の変更</string>
+    <string name="galaxy_fix">Galaxyバグ修正</string><string name="set_origin">現在地で見る</string>
+    <string name="set_local">現地で見る</string>
+    <string name="capture_screen">スクリーンを撮影する</string>
+    <string name="sync_gps_btn">GPS</string>
+    <string name="sync_camera_btn">カメラ</string>
+    <string name="set_home">原点を自宅に設定</string>
+    <string name="map_key">0U67IXCWLAOXi5yN_ZI2O2fK9vhRXjqRG9dXkNQ</string>
+    <string name="mode_ar_title">カメラ調整</string>
+    <string name="mode_water_title">高さ調整</string>
+    <string name="mode_flood_title">水位調整</string>
+    <string name="mode_map_title">位置調整</string>
+    <string name="next_flip_btn_title">次へ</string>
+    <string name="previous_flip_btn_title">前へ</string>
+    
+
+</resources>

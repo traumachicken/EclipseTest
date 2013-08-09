@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/SET_ORIGIN" android:title="@string/set_origin"></item><item android:id="@+id/SET_LOCAL" android:title="@string/set_local"></item>
+    <item android:id="@+id/MENU_SELECT_SYNC_SENSOR" android:title="@string/sync_sensor"></item>
+    <item android:id="@+id/MENU_SELECT_SYNC_GPS" android:title="@string/sync_gps"></item>
+    <item android:id="@+id/MENU_SELECT_SYNC_GROUND" android:title="@string/sync_ground"></item>
+    <item android:id="@+id/MENU_SELECT_PREFERENCE" android:title="@string/preference"></item>
+    <item android:id="@+id/NEXT_BUILDING_MATERIAL" android:title="@string/next_building_material"></item>
+    <item android:id="@+id/NEXT_GROUND_MATERIAL" android:title="@string/next_ground_material"></item>
+    <item android:id="@+id/NEXT_WATER_MATERIAL" android:title="@string/next_water_material"></item>
+    <item android:id="@+id/GALAXY_FIX" android:title="@string/galaxy_fix"></item>
+    
+    <item android:id="@+id/CAPTURE_SCREEN" android:title="@string/capture_screen"></item>
+    
+    
+</menu>
